@@ -35,3 +35,53 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+# Github Page
+
+[Experience Section](#experience)
+
+[Project Section](#project)
+
+## My favorite meme
+
+![Alternate image text](https://www.colorlines.com/sites/default/files/styles/teaser_thumbnail/public/images/articles/2016/09/pepe-frog-lede-9-28-16.jpg?itok=IHJsfl4z)
+
+> when I cannot find a job
+
+## Experience
+
+~~no Experience~~
+
+Triton Engineering Student Council(TESC)
+
+**Technical Committee Member**          *07/2020 - Present*
+
+- maintain and build websites for TESC events using `React` framework
+
+- Self-teach `HTML`, `CSS`, and `JavaScript` under the guidance of committee lead
+
+**Fun _Experience_**
+
+## Project
+
+Degree Designer       *06/2020 - Present*
+
+1. A 10-week project under the guidance of Women in Computing aimed at resolving the complicated process of planning courses on different websites for UCSD students
+
+2. An Android app aimed at planning and visualization of classes for UCSD undergraduates
+
+3. Created custom classes and functions and tested them for backend using Java and Junit
+   - [Github Link](https://github.com/xxwwyytt1/Degree-Planner.git)
+   
+***Fun Project***
+
+## Recents
+
+- [ ] Find an internship
+
+- [x] Finish my lab
+
+- [ ] Perfect this page
