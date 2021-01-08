@@ -51,6 +51,10 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 
 > when I cannot find a job
 
+## My Dog
+
+![Alternate image text](./HappyDog.jpeg)
+
 ## Experience
 
 ~~no Experience~~
